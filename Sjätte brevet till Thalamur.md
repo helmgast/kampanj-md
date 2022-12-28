@@ -1,0 +1,8 @@
+---
+author: Blasphemy
+created_at: '2011-08-07T13:02:50'
+id: sjätte brevet till thalamur
+title: Sjätte brevet till Thalamur
+updated_at: '2011-09-01T14:59:07'
+---
+Just nu går allt väl. Dock är den raunländska politiken så pass stormig att den får våra egna diskussioner och intriger att verka harmlösa. Kaos präglar allt. Folk byter sida. Eder sluts. Eder bryts och när som helst kan någon ta till våld. Det hela underlättas inte av att Tarbatai är en ytterst instabil person som styrs så gott som helt av sina känslor. Ibland lyssnar han på mina råd. Andra gånger ignorerar han mig fullständigt. Dock har jag märkt att Tarbatai trots sin eldiga mentalitet och icke-planerade agerande hyser ett starkt intellekt och kommer nog framöver, om han lever så pass länge, att bli en god ledare. Just nu så skapar han ett tiotal fiender för vardera vän han får och så länge som han själv inte ser sina egna brister så kommer det nog fortsätta i den takten. Jag hoppas att ett nog dråpligt nederlag skall lära honom att man måste tänka innan man agerar. Som tur är så agerar Tarbatais broder Nevas på ett mycket genomtänkt och logiskt sätt och Tarbatai lyssnar vanligen till dennes råd. Jag fruktar dock att en konflikt mellan dem skall skapa stor oreda. Trots detta har jag lyckats manipulera rätt personer så att Tarbatais position för närvarande är relativt säker. Om detta löser sig kommer han kanske kunna utmana Uriangkathai i kampen om herraväldet över slätterna men än så länge så tycks denne vara en allt för kraftfull motståndare för att kunna besegra i regelrätt krig. Jag håller er informerade. Er trogne tjänare S.

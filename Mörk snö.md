@@ -1,0 +1,14 @@
+---
+author: Martin
+created_at: '2011-08-07T14:30:08'
+id: mörk snö
+title: Mörk snö
+updated_at: '2011-08-11T15:30:57'
+---
+*Mörk snö är ett kort scenario där 2060 års London, sedan länge fast i diktatorn St. Johs hårda nypor, drabbas av ett underligt väderfenomen. Samtidigt dras stadens Turingagenter, evigt motarbetade av den lokala polismakten, in i ett rutinfall som inte är så enkelt som det verkar… I takt med att London sugs in i en spiral av död, snö och förtryck inser Turingagenterna att de är de enda som kan stoppa Storasyster…* Att det började falla snö var inget jävla under. Engelskt väder var inte vad det brukade vara. Att snön var mörk – smog någon? Att det snöade i juli – en aningen… ”peculiar”, kanske. Men, som sagt. Om det snöar i London måste St. John ha tillåtit det – något annat vore otänkbart. London 2060 är i de flesta européers ögon en smutsig rest som satt sig i svalget på den europeiska själen. Det är kontinentens sorgebarn, ett land som konsekvent valt att gå sin egen väg, om det så betyder att gå alldeles medeltida. Blightlands dödade den engelska landsbygden – nu endast synlig på St. John-posters – och folket flydde in till städerna. Segregation, arbetslöshet och fattigdom innebar kravaller – och kravaller innebar starkare polismakt. Gissa vad som hände sedan? Mer kravaller. St. John utlyste ett undantagstillstånd som inte släppt ännu. Stora delar av Londons stadsdelar är inmurade – för att hålla folk inne. Utegångsförbud är standard. Stadens polismakt, det tidigare så välrenommerade MetPol, har växt likt en cancerböld och helt tagit över staden. St. John tolererar inga oroligheter i ”Imperiets” pärla. Motvilligt deltar Storbritannien i vissa internationella förbund – mest för att upprätthålla illusionen av att man är en världsspelare. Interpol är ett av dem, men den så europeiskt polerade internationella polisorganisationen kallar Londonkontoret för ”Kolgruvan”, med viss rätta. Dit skickas de agenter som misskött sig eller måste hållas utanför bild. I London lägger Interpol inga större resurser – de vet att MetPol kommer att motarbeta dem i vad än de företar sig. Anledningen är förstås att Interpols ledning inte direkt gör en hemlighet av att de helst ser St. John avsatt. Ett dödläge, minst sagt. Tiden tycks ha stannat i London, eller gått bakåt. När resten av världen gått alldeles kolfiber, crysteel och spegelglas så har London valt att investera mer i betong och tegel. Här försöker man fortfarande krama ur bensin ur oljan från sinande borrplattformar. Här är Nätet övervakat och mobilerna är av tidigare års modell. Tåg – vanligt rälsbundet sådant, mind you – anses vara den bästa form av transport. Och ja, visst eldar man i de uråldriga kolkraftverken – St. John tycks sätta stort värde på att helt slå europeiska CO2-börsen ur balans.
+
+## Statister
+
+[Statister]
+
+  [Statister]: http://kampanj.ripperdoc.net/wp-content/uploads/Statister.pdf

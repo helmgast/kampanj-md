@@ -1,0 +1,45 @@
+---
+author: Martin
+created_at: '2011-08-02T16:27:55'
+id: miami vice plot
+title: Miami Vice plot
+updated_at: '2011-08-09T11:13:49'
+---
+I Miami funderade nyligen det stora bygg- och fastighetsföretaget Polaris Construction & Estates, dotterbolag till White Marble, på ett problem. Genom förvärv av ett par gamla fastighetsbolag kom de att äga betydande delar av den ökända stadsdelen Allapattah. Stadsdelen är gammal och nedgången, men ligger nära centrum. Den är centrum för restauranger, spelhålor och andra nöjesinrättningar, men området kontrolleras fullständigt av den organiserade brottsligheten. Två stora och mycket mäktiga brottsorganisationer har i praktiken delat området mellan sig och styr det med järnhand. Fastighetsföretaget behövde få sin mark bebyggd och uthyrd. Om de bara kunde få stadsdelen att skärpa till sig skulle de tjäna miljarder dollar på att hyra ut. De vände sig till stadsledningen och polisen, men även om de styrande tyckte det var en mycket god idé kunde de inte förmå polisen att hjälpa till. Polisen ville inte riskera sina män eller sin budget genom en sådan omfattande operation som det skulle innebära att slå mot stadsdelen. De ville inte heller att andra områden med dålig poliskontroll skulle resa sig vid en eventuell aktion. Vad de inte berättade, men som också var en stark anledning, var att de var köpta av de två brottsorganisationerna. Företaget hade fler överläggningar, och man funderade på att hyra in sin egen företagspolis och skärpa till området. Men man insåg snabbt de stora riskerna. För att kunna få någon kontroll var de tvungna att börja bygga upp sina etablissemang och pumpa in företagspoliser. Denna verksamhet skulle motarbetas massivt av *båda* brottsorganisationerna. Man skulle riskera att förlora folk, anseende och en mängd pengar. Och även om de skulle kunna ta sin beskärda del av makten skulle de aldrig kunna fördriva brottsligheten och alltså skulle de i längden riskera att förlora på att behöva betala otaliga polislöner. Den nya avdelningschefen Lonnie Sahr kom dock med en lysande, om än okonventionell idé. Om de bara kunde få brottsorganisationerna, som alltid balanserade på gränsen till krig, att starta ett storkrig mot varandra och förgöra motparten. Om företaget bara kunde röra om i elden, och inte ge sig förrän de båda organisationerna slagit varandra sönder och samman. Sedan kunde företaget gå in med egen företagspolis och i praktiken äga hela området. Skulle allt falla väl ut skulle de tjäna ofattbara summor och dessutom i praktiken äga en hel stadsdel.
+
+## Lonnies plan
+
+Lonnies plan går ut på att slå ut folk från båda organisationerna. I början var man säkra på att det bästa sättet var att ha förklädda medlemmar av den andra organisationen utföra det, men efter lite efterforskningar insåg de att det skulle vara för uppenbart. Ingen av ledarna i de två organisationerna skulle vara beredda att tro att den andre var så korkad att han bara skickade sitt folk för att skjuta lite på den andra sidan. Alltså gällde det att få det att se lite mer avancerat ut. Man kom fram till att om man fick det mesta att se ut om olyckor eller normala dödsfall, bara att man gjorde alldeles för många av dem, skulle innebära att båda organisationerna blev allt mer misstänksamma. Förhoppningsvis skulle båda organisationerna misstänka att den andra lite ”diskret” försökte ta ut viktiga element ur motståndarorganisationen, kanske som en förberedelse för en fullskalig attack. Företaget PC&E har inte själva resurserna som krävs för att utföra något dylikt, så man hyrde in konsulter, närmare bestämt en paketlösning från Nimrod (som kostade dyra pengar, vilket gör Lonnie än mer motiverad att lyckas). Han beställde in ett strategiskt team, ett tekniskt team och ett operativt team. Det strategiska teamet hjälper till att planera och göra research, det tekniska teamet fixar de tekniska lösningarna (som bilar som ”kraschar” sig själva) och det operativa teamet är ute på fältet. Tidschemat är pressat och det operativa teamet, bestående av totalt 6 personer, arbetar nästan dygnet runt. Det operativa teamet innehåller experter inom de flesta områden, bland annat ”streetwise”, sprängämnen och prickskytte. Eftersom man vet att maffiorna inte riktigt har samma tekniska kapacitet som polisen behöver man inte alltid ha högsta kvalité på jobbet man gör. Där har PC&E sparat in pengar som de kanske får ångra.
+
+## Rollpersonernas inträde
+
+Rollpersonerna är ett gäng hopplockat för att kunna utföra utredningar liknande dem som polisen utför. De anställs av brottsorganisationen Horizonte, förmodligen via en bulvan, åtminstone i början, för att kunna agera som ”oberoende” utredare. Horizonte har nämligen utsatts för en mängd mystiska olyckor som allt mer börjar likna attentat. De har börjat inse att det är utfört av någon form av organisation eller liknande, inte bara någon galning. Men de drar sig för att misstänka den uppenbara fienden, den andra brottsorganisationen, allt för öppet. Ingen i ledningen vill riskera ett storkrig förrän de verkligen vet vad som hänt. Och om den andra organisationen är inblandad är det väldigt bra med ”utredare” som inte har några kända kopplingar till den organiserade brottsligheten, och på så sätt kunna gå fram mer diskret.
+
+## Vilka bör rollpersonerna vara
+
+Gärna från det lokala området eller landet, då det ger en mer uppenbar koppling. De kan ha alla sorters yrken, och inte nödvändigtvis vara kriminella, men de skall kunna fylla någon slags uppgift i en ”utredargrupp”. Exempelvis solos, före detta poliser, sjukvårdare, militärer, tekniker av flera sorter, och exempelvis gängmedlemmar eller andra typer av brottslingar som på något sätt visat sig vara dugliga.
+
+## Vad kan hända?
+
+Det är något okonventionellt inom brottsorganisationen att hyra in nykomlingar till ett sådant betydelsefullt arbete. Således måste de sättas på prov först innan de tas ut i ”verkligheten”. De sätts på att under tidspress utreda enklare brott (ex. en langares död). Det behöver inte ens vara brott som är kopplade till attentaten mot organisationen. Visar sig nykomlingarna vara dugliga så kommer organisationen att sakta inviga dem allt mer i vad de tror händer, och desto bättre utredarna klarar sig, desto närmre brottsorganisationens ledning kommer de. Vilka kommer utredarna finna som ansvariga för attentaten? Kommer de ens finna något svar innan kriget bryter ut, vilket med stor risk resulterar i deras egna död? Kommer de kanske att inse vem som egentligen iscensatt allting, och lyckas de till och med kanske vända båda brottsorganisationerna mot den verkliga förövaren? Kommer kanske utredarna att komma i konflikt med den andra brottsorganisationen, folk i de egna leden, andra brottslingar eller polisen?
+
+## Brottsorganisationen
+
+Organisationen kallar sig själv Horizonte, men oftast behöver man inte nämna några namn. Det är ingen typisk etnisk maffia även om den har mycket starka kopplingar till colombiska maffian, som är leverantör och samordnare av Horizontes största inkomstkälla, droger. Den stora konkurrenten är en organisation som är en mycket speciell allians, mellan ryska maffian och puertoricanska maffian. De kämpar för att konkurrera på droghandeln men deras största inkomster är människohandel, vapenhandel, häleri och prostitution. Horizontes ledare är Oscar Santos, en halv-colombian och halv-amerikan, dock med de ideologiska sympatierna lutande åt Amerika. Han är en buren affärsman och har enligt hans ”överordnade” en ovana att göra allt i allt för stor grad till affärer, på gott och ont. Santos kan göra det mesta för att tjäna lite pengar, vilket å ena sidan betyder att han kan vara väldigt hänsynslös mot fiender, men samtidigt att han inte har så mycket till övers för sitt eget folk heller. Han följer inte riktigt känslan av ”gemenskap” och är helt enkelt inte lika beskyddande över sina mannar, i alla fall inte i onödan.
+
+##  **Möjliga sysselsättningar**
+
+-   Samla in beskyddarpengar
+-   Vakta den egna bossen
+-   Ta död på den andra bossen (farligt och oftast dumt i maffiasammanhang)
+-   Dela ut mutor
+-   Tysta vittnen
+-   Hota personer som verkar kunna prata bredvid mun
+-   Vakta olika inrättningar som bordellerna, spelhålorna, häleriverksamheten och knarkhandel
+-   Agera kurirer med viktigt material, pengar eller information
+-   Klassiska dåd som bankrån och liknande (de flesta sådana är dock onödigt svåra i Neotech)
+-   Skapa och hålla kontakten med maffians gäng (kan kräva allt mellan dueller till att bara hänga med gängmedlemmarna på en knarkrunda)
+-   Återhämta saker som försvunnit eller stulits från "organisationen"
+-   Möta representanter för företag och andra "allierade"
+-   Stjäla speciella föremål som maffiabossen bara måste ha, som den där Warhol-tavlan eller det sydafrikanska diamanthalsbandet till bossens hustru.
+-   Åka utomlands för att ligga lågt och inte dra till sig uppmärksamhet (förslagsvis efter man har dragit till sig lite för mkt uppmärksamhet)

@@ -1,0 +1,27 @@
+---
+author: Fredrik
+created_at: '2011-09-05T16:09:23'
+id: dobax
+title: Dobax
+updated_at: '2011-10-01T15:24:33'
+---
+## Dobax (Fredrik)
+
+<img src="http://kampanj.ripperdoc.net/wp-content/uploads/you_Roshiko_Melchior-1_taup-237x300.jpg" title="Dobax" class="alignright size-medium wp-image-1457" />*Dobax är en 17 årig taup, med en ovanlig begåvning för språk. Han är självsäker, på gränsen till arrogant och alltid mycket formell. Han är född på Luberos och son till den framstående Akoia, men har tillbringat nästan halva sitt liv i Ar Kabal. Har nu återvänt till Luberos, formellt för huset Gdemes räkning, men det kan tänkas att det egentligen är för att förbereda sig på att bli överhuvud för släkten.*
+
+### Bakgrund
+
+Föddes på Luberos, minns barndomen på Luberos som lycklig och fri. Har inga minnen av fadern men modern, Akoia, minns han som hård, på gränsen till oövervinnerlig, och trots att hon gav honom mycket stor frihet som sträng. Som barn sprang han omkring i kolonin och den omgivande skogen, ibland åtföljd av sin orolige tjänare, Tsaul, som fått stränga order av modern att låta Dobax göra vad han ville och lära av sina misstag. Strapatserna uppmuntrades av Lawube som ofta visade Dobax du mer spektakuära delarna av ön, och även   Dobax visade tidigt extrem talang för språk och kunde redan som sjuåring alla språk som talades i kolonien, inklusive acceptabel alviska som han lärt från den alviske representaten i kolonin - Deliolith. Trots koloniens knappa resurser försökte modern ge honom en en utbildning som anstår en arvtagare till en av imperiets främsta ätter, och eftersom ättens huvudsäte nu verkade hamna i civilisationens utkant gavs han även viss stridsträning. Utbildningen var hård och det gjordes väldigt klart för unge herren att han hade ett mycket stort ansvar för ättens framtid och att han måste förbereda sig väl för att kunna göra vad som krävdes. Vid nio års ålder blev Dobax hämtad av huset Gdeme, för vilket han var en perfekt kandidat för att placerats på Luberos i framtiden. Varför modern gick med på att släppa iväg honom till Gdeme, trots uppenbar motvilja, är fortfarande oklart för honom. [<img src="http://kampanj.ripperdoc.net/wp-content/uploads/roshiko_amanogawa-1-taup1-211x300.jpg" title="Dobax äldre" class="alignright size-medium wp-image-1460" />]Nu har Dobax återkallats till ön och sin moder Akoia. Under den långa färden till ön lärde han känna Parda - de två ungdomarna hittade till varandras famn under tristessen.
+
+### Relationer
+
+**Lawube:*** Minns honom som en mycket äldre broder.* **Annan relation:** *Deliolith* **Annan relation:** *Akoia* **Personlighet och motiv** *Beskriv (allt behöver fyllas i!)*
+
+-   ***Beteende**:** **Formell, ibland arrogant. Självsäker.*
+-   ***Motiv**: Plikten till huset och ätten. Utforska öns mysterier och överträffa sig själv.*
+-   ***Kärlek**: Fascineras/attraheras av styrka, faller för ömhet.*
+-   ***Rädsla**: Att misslyckas och svika sina plikter.*
+
+Dobax är en plågad ung man. Han är pressad av både hus och släkt, och förväntar sig stordåd av sig själv. Dock ifrågasätter han inte ändamålet helgar medlen-moralen intellektuellt, utan är istället arg på sig själv för att han inte kan släppa sina samvetskval; han vet att han alltid gjort det rätta. Denna inställning gör att han kan ha intuitiva spärrar för att göra hemskheter, men givet att han kan motivera det med att det är för ett gott ändamål och han får tillräckligt med tid för att övertala sig själv, så kan han överkomma spärrarna och göra vad som helst, dock med jobbiga följder för hans välmående. Dobax har pressats mycket hårt under sin utbildning, både fysiskt och psykiskt. Den fysiska träningen har gjort honom mycket smidig och stark, men har hämmat hans växt något, så han ser ganska liten och späd ut (tänk ung elitgymnast eller dansare). Pressen från huset och ätten, och även det plågade samvetet, har givit honom vissa sömnproblem som ytterligare har spätt på hans spröda framtoning. Dobax har inte haft några nära vänner. Det närmsta en vän han haft är hans trogne tjänare Tsaul, men på grund av en åldersskillnad på över 40 år, och på grund av att Dobax ägnat i princip hela sin vakna tid till träning och tjänstgöring för huset, kan den relationen snarare beskrivas som en stark lojalitet. Mentorn i Gdeme, Mästare Chaol, har även han stått Dobax nära, men Dobax har fruktat honom och inte kunnat komma honom särskilt nära, dock litar han på honom och ser upp till hans kunnande. Bristen på vänner har gjort Dobax lite främmande för närgångenhet, och kan inte riktigt slappna av i andras närvaro. Han kan även uppfattas som stel eller rent av otrevlig, speciellt i informella sammanhang; i formella miljöer däremot vet han hur han skall föra sig och smälter in väl. Den hårda miljön i Gdeme, och hans egna höga krav på sig själv, gör att han har ganska lite sympati för svaghet, och uttrycker sig ofta lätt nedsättande. Men trots allt är Dobax en ganska känslodriven ung man, och väntar, om än omedvetet, på att någon skall ta sig igenom hans skal av plikt och plågor.
+
+  [<img src="http://kampanj.ripperdoc.net/wp-content/uploads/roshiko_amanogawa-1-taup1-211x300.jpg" title="Dobax äldre" class="alignright size-medium wp-image-1460" />]: http://kampanj.ripperdoc.net/wp-content/uploads/roshiko_amanogawa-1-taup1.jpg

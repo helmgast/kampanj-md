@@ -1,0 +1,8 @@
+---
+author: Martin
+created_at: '2011-08-09T15:18:37'
+id: 2954 brev från antonius
+title: 2954 Brev från Antonius
+updated_at: '2011-08-09T15:41:44'
+---
+Kära Bröder, Min sorg och saknad är stor. Vår tid tillsammans på St Yrgams har varit en dröm. En dröm som fostrat oss att gå starka ut i livet och leva i framgång – för Jargien behöver oss. Men nu är den slut för gott. Låt oss minnas de goda stunderna tillsammans. Låt oss minnas Marius ständiga frågor och Felix tålmodiga svar. Låt oss minnas hur Valthian lärde oss god svärdskonst. Låt oss minnas Darrians högläsningar, eller Jarims upplyftande och ack så spontana tal. De minnen som inte varit goda skall vi låta vila i ro. Vi har alla gjort saker vi ångrat. Det får inte spridas rykten och osämja i vårt sällskap – det vore att splittra allt vi byggt upp. Unge Lukas har lämnat sällskapet efter det som skedde. Han hade inte viljestyrkan. Jag vill inte att ni ska klandra Felix för det han anklagats för. Han har intygat för mig, och jag tror på honom, att allt Felix gjorde var i välmening och att han trodde att Lukas samtyckte. Vi alla såg Lukas svagheter, och kanske var vi inte förlåtande nog mot honom. Den Ende kommer att göra sin utmätning i sinom tid, låt oss nu gå vidare. Låt oss återvända till Erat för att träffas när tiden är mogen. Till dess, skriv och skriv, ty vårt sällskap lever endast på vår vänskap. Antonius Botaneiates, primär 2954 e.D.

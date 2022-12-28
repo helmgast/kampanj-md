@@ -1,0 +1,20 @@
+---
+author: Martin
+created_at: '2011-08-06T15:59:56'
+id: akt i - alpha orbit
+title: Akt I - Alpha Orbit
+updated_at: '2011-08-06T15:59:56'
+---
+Stridsgrupp Delta sammankallas till Amiral Edmund Duke’s personliga kontor för att briefas av Duke och dennes sekondanter. De möter Ula Isarki med assistenter. Captain Dekker och Prime får en särskild briefing. Stridsgruppen förs till materialdepån och får välja sin utrustning. En kort ceremoni, hedersbetygelser till Konfederationen, därefter dropship till HQ Maximilian.
+
+## Dramatis Personae
+
+**Amiral Edmund Duke**: Duke är en kort, satt man med stenlika ansiktsdrag och grova händer. Han är vida ansedd som den främste amiralen med sin erfarenhet och sitt befäl över den främsta skvadronen. Han började sin militära bana som stridsvagnsskytt men avancerade snabbt uppåt. Kampen mot Korhals söner har länge varit hans personliga fejd, och han både respekterar och föraktar dessa ”terrorister”. Duke kan vara kamratlig med vem som helst, stridsgrupp Delta likaså, men det är uppenbart att han inte vill ödsla för mycket tid på mindre detaljer som dessa. Han har samtidigt förstått att Operation Neptune är av högsta vikt och han är mån om att ge den bästa möjliga briefingen och ingjuta största möjliga lojalitet hos mannarna. **Professor Engel**: En stram, lång man med en kostym av gammaldags snitt som har svårt att passa in i ett militärt flaggskepp. Han är dock inte mindre säker på sig själv för det – det är uppenbart att han betraktar de flesta i sin omgivning, amiraler inkluderat, endast som verktyg. Han säger mycket lite och ingriper ogärna direkt. Han är ordförande för Konfederationens Vetenskapsakademi och hjärnan bakom Konfederationens storsatsning på xenologi, därmed den egentliga uppdragsgivaren för Operation Neptune. **Major Rieber**: En teknisk major med näsa för detaljer som i egenskap av Amiral Dukes sekondant står för den egentliga briefingen och han kommer vara den som i första hand svarar på Delta:s frågor. Han har dock ingen egen uppfattning eller karaktär värd att nämna.
+
+## Scener
+
+**Amiraliteten**: Flaggskeppet Norads amiralitet är inrett i äldre stil – dyrbara träpaneler från Akso II, gulddetaljer och stoppade stolar. Från Norads kliniska korridorer är det som att stiga in i en simulation. När Stridsgrupp Delta anländer till rummet – rummen snarare – möts de av Major Rieber och ett gäng assistenter, ansvariga för att knappa fram rätt information på bildskärmarna samt tillhandahålla lämpliga tystnadspliktskontrakt till mannarna i Delta. Amiralen sitter tillbakalutad bakom sitt enorma skrivbord i ena kanten på rummet och nöjer sig med att efter briefingen ge ett par visdomens ord och lyckönskningar till mannarna, samt förstås vänligt svara på eventuella frågor. Professor Engel kommer bara introduceras i förbifareten av Major Rieber och kommer stå tyst observerande om han inte utfrågas direkt. Vid briefingen är också Dr Isarki närvarande med sina assistenter, men utbyter inte mer än ett par artighetsfraser med stridsgruppen. Efter den allmänna briefingens avslutande entledigas stridsgrupp Delta, utom Prime och Captain Dekker. Dessa får i en särskild briefing, nu med Duke och Engel mer involverade, veta vikten av uppdraget och de exakta detaljerna. **Materialdepån**: Stridsgrupp Delta unnas en lyx få förunnat, att välja och vraka nästan fritt från materialdepån. Depån är redan nästan tömd på grund av stridigheterna på Chau Sara, men det finns ett par exemplar av allt som kan behövas. Utrustningen tillhandahålls över disk av ett par tekniska assistenter, som ansvarar för att hämta fram utrustningen bland de hundratalet hyllor som utgör depån. De övriga marinsoldaterna kommer med många smarta tips för vad som kan vara användbart i fält. **Instick**
+
+-   Captain Dekker presenterar sig för mannarna.
+-   Sgt. Jones talar om försiktighetsregler för mannarna: Ironiskt då alla utom Jones har stridserfarenhet och därmed bör veta allt om att inte riskera saker i onödan.
+-   Pvt Sasha är gammal polare med en/några av de andra marinsoldaterna, har ett kamratligt/nostalgiskt snack om gamla dar.

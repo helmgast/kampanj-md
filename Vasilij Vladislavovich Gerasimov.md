@@ -1,0 +1,8 @@
+---
+author: Martin
+created_at: '2011-08-03T16:00:45'
+id: vasilij vladislavovich gerasimov
+title: Vasilij Vladislavovich Gerasimov
+updated_at: '2011-08-03T16:00:45'
+---
+Vasilij Vladislavovich Gerasimov Växte upp i storstadsslummen, underklassen Uppväxt i underklassen i Minsks slum 2024-2042 Pengar: 700 Euro 8/2032                Familjetragedi 8/2032                Barnhem 17/2041        Hjälte Framgångsrik boostergängmedlem 2042-2045 Pengar: 500 Euro 18/2042        Gängkrig 19/2043        Hälare 21/2045        Vansinnig granne Framgångsrik sergeant legosoldat 2045-2049 Pengar: 2500 Euro 22/2046        Specialutbildad i sprängteknik 23/2047        Specialintresserad av mode, lärde känna en modeexpert med resurs 15. 25/2049        Krigsfånge i 9 år Krigsfånge        2049-2058 Pengar: -1900 28/2052        Isolerades för våld mot vakt. Psykos. 33/2057        Styrketräning. Fick en medfånge som vän under muskelbyggandet (res 12) Prisjägare        2058-2059 Pengar: 5500 Utrustning: Skaffade sig en trea i Miami, en bil, en pistol, ett gevär, lite avlyssningsutrustning och överlevnadsutrustning. 34/2058        Jagad av maffian för att han inkräktat på deras område, men torpeden som skickades fick spö av Vasilij (fiende 15 res) 34/2058        Stamkund hos en klädaffär där Vasilij brukade samtala mode med innehavaren (resurs 12) 35/2059        Tipsade en journalist om maffian som jagat honom. Fick 7000 (kontakt 17). Tycker om de andra Khalil: Verkar helt klart farlig när han sätter den sidan till. Är förmodligen mycket kompetent inom sina områden. Dillon: Inte så stresstålig, men gnällig och envis. Verkar osäker, det är inte helt uppenbart vad han ska göra för nytta. Nick: Verkar inte helt seriös, men passar trots det in. Noel: En mes.

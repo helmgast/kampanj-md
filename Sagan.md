@@ -1,0 +1,22 @@
+---
+author: Martin
+created_at: '2011-08-06T16:37:34'
+id: sagan
+title: Sagan
+updated_at: '2011-08-06T16:37:34'
+---
+## Sagan Jehanir Illhiva ätt Cartika
+
+<img src="http://kampanj.ripperdoc.net/wp-content/uploads/zcg62-225x300.jpg" title="zcg62" class="alignright size-medium wp-image-826" /> Thalaskisk medborgare som är utsänd av uppsatta personer i det stolta riket för att finna den nya Tabatai som setts i magiska syner och järtecken. Målet är att skapa en allians med den nya Tarbatai och hålla relationen mellan raunerna och Thalamur fredlig. Sagan erbjuder sina kunskaper om omvärlden samt sin taktiska kunskap i strid där han är mycket skicklig. Även om Sagans förflutna är höljt i mysterier så har han berättat att han varit en befälhavare i det thalaskiska kavalleriet.
+
+### Fysiskt
+
+En lång man, rakryggad och vältränad som håller sitt huvud högt. Han har korpsvart, midjelångt hår, som börjat bli grått vid tinningarna. Det är flätat och flätan hålls i slutet ihop av ett antal silverringar. Ansiktet är smalt med välmarkerade kindben, hög panna, smala läppar, mörka ögonbryn och gröna utforskande ögon. Dragen är nobla och rena och han har en trolsk utstrålning. Kroppen är täckt av svarta slingrande ärristningar som sträcker sig över ryggen, ut över armarna och ned på händerna.
+
+### Kläder, rustning och ägodelar
+
+Kläderna är i tjockt tyg, vida ärmar i svart med mörklila inslag och sirliga silverbroderier. Manteln är i tjock svart, pälsbrämad vadmal, med ett kraftigt silversmycke som håller den samman. Under kläderna bärs ättesymbolen i silver. Rustning: En lång fjällpansarskjorta med svarta, matta metallfjäll. Underbensskenor i mörkt härdat läder och ett par kraftiga svarta läderhandskar. Hjälmen är i svärtad metall, dess framsida är formad som ett känslolöst ansikte, tre smala metallhorn böjer sig bak, tätt efter hjälmen.
+
+### Mentalt
+
+Är en social individ som gärna hänger sig åt diskussioner och lär sig nya ting. Dock har han en kylig yta bakom sin sociala fasad som är svår att tränga igenom. Han släpper aldrig någon riktigt in på livet och pratar helst inte om sig själv. Ibland drabbas han av en våldsam avundsjuka. Han kan se ett föremål eller en person som han bara måste ha. Då kommer han manipulera personer i sin omgivning och ibland gå till direkt aktion för att få det. När han väl fått objektet för sin avundsjuka så brukar han snabbt tappa intresset för det. Hans mörkaste hemlighet är dock lusten efter blod och människokött. Har han tillfället att sluka köttet av ett färskt lik har han svårt att motstå det. Det ger honom en enorm tillfredställelse att sluka delar av en annan besjälad varelses kropp. I de mörka fantasierna lägrar han män och kvinnor, dräper dem under akten och äter av dem efteråt. Han försöker dock slå undan denna djuriska sida som så river i honom. Det kan vara värt att nämna att Sagan blir mer och mer makthungrig och efter att ha insett att han själv är en "ättling" till de gamla coloniska kejsarna beslutar han att använda raunerna som sitt redskap och tar därför hälp av Tarbatai och hans "bröder" för att få tag på kejsarstaven. I slutändan så beslutar han att leda ned raun-armén i Thalamur och med dessa bakom sig tvinga till sig tronen - sedan skulle självklart raunerna vara kokta förr eller senare då han redan hade massvis med planer på att utplåna dem. Sådana bestar kan ju inte få löpa fritt. Dock så hade Sagan ett problem. Han var hopplöst förälskad i Xinu-inkarnaten L'meas och det gjorde att han försökte sluta sig till de rauniska gudarna - eller rättare sagt stjäla deras krafter. Genom att döda Kara, som var inkarnaten för krig, så skulle han inte bara bli osårbar från alla som var hans fiender utan han skulle inte kunna känna kärlek. Det hela gick dock fel och Sagan flydde efter en blodig kupp tillsammans med Batuk till en befäst thalaskisk fästning och beslöt att slå ut Raunerna istället och således få Thalamurs respekt (Sagan hade vid denna tid börjat visa tydliga tecken på galenskap - vilket förvisso kan vara ett bevis för det kejserliga blodet). Många ting skedde mot slutet. Han dödade Batuk och gjorde honom till en vandöd tjänare och fick honom att döda Tarbatai. Men Sagans hybris gjorde att Alan Ajav, som nu inte var mycket mer än ett förvridet monster, lyckades fånga in honom. Sagan vägrade dock ge honom kejsarstaven och Alan dödade då honom.

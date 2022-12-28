@@ -1,0 +1,8 @@
+---
+author: Martin
+created_at: '2011-08-07T13:21:44'
+id: ormen
+title: Ormen
+updated_at: '2011-08-07T13:21:44'
+---
+Det är en ljuvlig sommardag. Gal, nio vintrar och hans två vintrar äldre broder Melek är ute och leker en bit från boplatsen, under överinseende av pajon Roke. Pajonen ser plötsligt en mindre gräsorm i stenröset som barnen leker runt. Han tvekar, men väljer sedan att vara tyst, för han inser med ens att det är en provning av Krig. Det dröjer inte länge förrän Gal sätter ned foten vid ormen, alldeles innan Melek hinner uppfatta den, och ormen biter direkt stackars Gal i vaden. Gal faller ihop med ett kvävt rop. Melek står paralyserad intill men tittar på pajon Roke, som säger: "Gör inget, barn. Detta är en prövning för Gal. Kom, Melek, låt oss gå. Gal kommer när prövningen är avklarad." Gal biter ihop och tar en sten och dödar ormen... sedan börjar han kravla sig hem... smärtan är enorm, men han vill inte skämma ut sig. När Roke och Melek återvände till boplatsen möttes de av khan Yurgan, fader till Gal och Melek, som bistert synade dem. "Var är min son?" frågade han Roke. På sedvanligt vis svarade Roke otydligt: "Han utstår en gudarnas prövning.". Melek fyllde i: "Gal blev biten av en orm! Roke sade åt mig att gå hem!". En längre stund tittade khanen på pajonen, då han i fjärran kunde skönja Gal. Han sade kort: "Gott." Gal klagade aldrig över smärtan - han led i tysthet. Efter endast någon dag hade den oroväckande blånaden försvunnit. Det viskades om mirakel, att khanens andreson hade gudagunst.

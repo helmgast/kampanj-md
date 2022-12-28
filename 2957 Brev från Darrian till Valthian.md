@@ -1,0 +1,8 @@
+---
+author: Martin
+created_at: '2011-08-09T15:21:08'
+id: 2957 brev från darrian till valthian
+title: 2957 Brev från Darrian till Valthian
+updated_at: '2011-08-09T15:42:02'
+---
+2957 e.D. V! Det glädjer mig oerhört att se ditt brev och att Daak håller sin skyddande hand över dig och ditt manskap. Även om jag stödjer ert uppdrag under Honom så är jag oroad över den blodspillan som väntas. Drunok är en broderskyrka, även om de tolkat Boken annorlunda. Tiden här i klostret förflyter snabbt trots monotona uppgifter, men jag har mina mål tydlig framför mina ögon. Teologin är ett intressant ämne som jag snabbt satt mig in i. Endast genom att förstå Den Helige kan De Blå segra. Du är min bäste vän från den tiden, och det kommer jag aldrig att glömma, vad som än sker i framtiden.  Jag hoppas du biktar dig så att du kan utrensa det onda inom dig. Antonius har skickat brev till mig, han är intresserad av mina framgångar. Jag hoppas bara att det inte är på samma sätt som Felix såg på Lukas. Usch, det är en vedervärdig historia, verkligen fruktansvärd. Jag förvånades över att inte Den Ende själv markerade men ju mer jag följer i Hans ledsagningar inser jag hur svårt det måste vara för Honom att blanda sig våra vardagsbestyr. Som du säger, folket verkar lida mer arm än mycket länge. Vår respekterade kejsare verkar inte lyfta ett finger för att styra upp situationen. Jag undrar om det är något jag, eller alla vi, missar. Något vi inte ser som ter sig självklart för Jargus? Men vad skulle det vara? Nej, nu ringer klockorna för kvällsvard. Mäster blir högröd i ansiktet och tvekar inte att bruka käppen på de som är sena så detta blir mina sista ord för den här gången. Jag hoppas att vi återses snart igen, min vän. D.
